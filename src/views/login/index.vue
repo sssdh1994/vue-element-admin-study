@@ -125,6 +125,7 @@ export default {
     }
   },
   created() {
+    // test
     // window.addEventListener('storage', this.afterQRScan)
   },
   mounted() {
